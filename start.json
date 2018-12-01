@@ -1,0 +1,3 @@
+{
+  "start": "emulator -netdelay none -netspeed full -avd onlystar"
+}
